@@ -1,0 +1,17 @@
+📊 Retail Data Pipeline (Databricks-Style Architecture)
+
+This project demonstrates a scalable end-to-end data pipeline built using Python and PySpark, simulating a modern data platform similar to Databricks.
+
+It follows the Medallion Architecture (Bronze → Silver → Gold) to transform raw data into business-ready insights.
+
+🚀 Key Features
+End-to-end data pipeline development
+PySpark-based scalable processing
+Data quality validation checks
+Modular transformations inspired by dbt
+Business KPI generation (revenue, order volume)
+Pipeline monitoring and validation
+🧱 Architecture
+Bronze Layer → Raw data ingestion
+Silver Layer → Data cleaning & validation
+Gold Layer → Aggregated business insights
